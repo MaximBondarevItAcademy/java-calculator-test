@@ -56,5 +56,4 @@ public class Main {
             throw new IllegalArgumentException("Неправильный ввод числа: " + numStr);
         }
     }
-    String string = "Тест гита(reset), удалить";
 }
