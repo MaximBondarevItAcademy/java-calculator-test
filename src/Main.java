@@ -55,6 +55,6 @@ public class Main {
         } catch (NumberFormatException e) {
             throw new IllegalArgumentException("Неправильный ввод числа: " + numStr);
         }
-
     }
+    String string = "Тест гита(reset), удалить";
 }

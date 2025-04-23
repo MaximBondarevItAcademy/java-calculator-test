@@ -1,0 +1,17 @@
+[33mcommit 50b3d88601c60db0ec358bae52f8addfbeca1b38[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Maksim_Bondarau <maksinn.bondarev.itacademy@bk.ru>
+Date:   Wed Apr 23 23:36:30 2025 +0300
+
+    Тест Untracked и reset
+
+[33mcommit c75255547aa318efdb7cfc2c0104a7b0366641d7[m
+Author: Maksim_Bondarau <maksinn.bondarev.itacademy@bk.ru>
+Date:   Wed Apr 23 23:30:44 2025 +0300
+
+    Тест гита reset
+
+[33mcommit 21c7f5f3b41f6ec998834a92fb638f08f8918c7c[m
+Author: MaximBondarevItAcademy <maksinn.bondarev.itacademy@bk.ru>
+Date:   Wed Apr 23 21:06:08 2025 +0300
+
+    Initial commit: калькулятор для тестового задания
