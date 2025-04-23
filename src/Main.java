@@ -48,8 +48,8 @@ public class Main {
     private static int parseNumber(String numStr)  {
         try {
             int number = Integer.parseInt(numStr);
-            if (number < 1 || number > 11) {
-                throw new IllegalArgumentException("Число должно быть в диапазоне от 1 до 11 включительно.");
+            if (number < 1 || number > 10) {
+                throw new IllegalArgumentException("Число должно быть в диапазоне от 1 до 10 включительно.");
             }
             return number;
         } catch (NumberFormatException e) {
